@@ -56,4 +56,6 @@ Run the application using the Streamlit command, referencing the correct file na
 The application will open automatically in your default web browser at http://localhost:8501.
 
 
-Application Sc
+
+
+
