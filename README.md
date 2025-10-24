@@ -30,10 +30,10 @@ Place the edge_detection_app.py file into your main project directory.
 
 It is crucial to use a virtual environment (venv) to isolate dependencies:
 
-# Create the virtual environment
+Create the virtual environment
 python -m venv venv
 
-# Activate the virtual environment (Windows)
+Activate the virtual environment (Windows)
 .\venv\Scripts\activate
 
 
@@ -55,4 +55,5 @@ Run the application using the Streamlit command, referencing the correct file na
 
 The application will open automatically in your default web browser at http://localhost:8501.
 
-Application Screenshots
+
+Application Sc
